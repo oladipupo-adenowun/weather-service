@@ -1,0 +1,9 @@
+{
+    "name": "Weather Service",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "A service to retrieve weather status",
+    "dependencies": {
+        "express": "^4.21.1"
+    }
+}
